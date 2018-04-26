@@ -1,2 +1,2 @@
-＃弗里斯特-PX    
+＃first-PX    
 PXrace
